@@ -42,7 +42,7 @@ Main_Programme/
 
 ## Course Context
 
-Built for DSAI4203 Machine Learning (PolyU, Spring 2026). Grade: B.
+Built for DSAI4203 Machine Learning (PolyU, Spring 2026). .
 
 ## Author
 

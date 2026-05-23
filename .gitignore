@@ -1,0 +1,47 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data files
+data/
+*.zip
+*.gz
+*.tar
+*.7z
+
+# Training artifacts
+catboost_info/
+outputs_*/
+outputs.zip
+ensemble_input_*.zip
+ensemble_output.zip
+*.tsv
+
+# Course report
+DSAI4203_Report.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Duplicate data
+PlayGround_Data/
