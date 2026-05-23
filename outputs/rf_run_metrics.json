@@ -1,0 +1,30 @@
+{
+  "run_name": "rf_run",
+  "config": {
+    "model_type": "random_forest",
+    "C": null,
+    "class_weight_balanced": false,
+    "max_iter": 3000,
+    "alpha": null,
+    "l2_tol": 0.001,
+    "n_estimators": 200,
+    "max_depth": null,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt",
+    "class_weight_rf": null
+  },
+  "cv_folds": 5,
+  "seed": 42,
+  "fold_roc_auc": [
+    0.6956422668577174,
+    0.694783335862757,
+    0.69520732205463,
+    0.6958578219133258,
+    0.6957181940518572
+  ],
+  "metrics": {
+    "roc_auc": 0.6954379181275816,
+    "log_loss": 0.603597250878516
+  }
+}

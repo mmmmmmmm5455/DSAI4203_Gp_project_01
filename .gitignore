@@ -12,7 +12,13 @@ data/
 
 # Training artifacts
 catboost_info/
-outputs_*/
+outputs_test/*
+!outputs_test/lgbm_optuna30_optuna_best.json
+!outputs_test/gbdt_experiment_log.csv
+outputs_oof_ref/*
+!outputs_oof_ref/oof_ref_metrics.json
+outputs_gbdt/*
+!outputs_gbdt/gbdt_experiment_log.csv
 outputs.zip
 ensemble_input_*.zip
 ensemble_output.zip

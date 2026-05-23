@@ -1,0 +1,4 @@
+Timestamp,Run_Name,Model,Params,Train_AUC,Val_AUC,AUC_Gap,Val_LogLoss
+2026-03-21 20:01:56,exp_v1,random_forest,"C=1.0, depth=None, trees=100",1.0,0.691789,0.308211,0.605855
+2026-03-21 20:30:28,exp_v1,random_forest,"C=1.0, depth=None, trees=100",1.0,0.691789,0.308211,0.605855
+2026-03-21 20:35:48,exp_v1,random_forest,"C=1.0, depth=None, trees=100",1.0,0.691789,0.308211,0.605855

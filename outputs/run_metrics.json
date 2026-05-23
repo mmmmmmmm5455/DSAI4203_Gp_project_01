@@ -1,0 +1,24 @@
+{
+  "run_name": "run",
+  "config": {
+    "model_type": "logreg",
+    "C": 1.0,
+    "class_weight_balanced": false,
+    "max_iter": 3000,
+    "alpha": null,
+    "l2_tol": 0.001
+  },
+  "cv_folds": 5,
+  "seed": 42,
+  "fold_roc_auc": [
+    0.6951220707798598,
+    0.6936021000063781,
+    0.6933556371727675,
+    0.6948294786972191,
+    0.6953449926395417
+  ],
+  "metrics": {
+    "roc_auc": 0.6944450098784521,
+    "log_loss": 0.6036526895429358
+  }
+}

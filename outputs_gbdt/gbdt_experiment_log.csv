@@ -1,0 +1,3 @@
+Timestamp,Run_Name,Model,Learning_Rate,Trees,Train_AUC,Val_AUC,Gap,Val_LogLoss
+2026-03-21 20:12:55,lgbm_v1,lgbm,0.05,500,0.737172,0.725179,0.011992,0.58423
+2026-03-21 20:19:06,lgbm_v1,lgbm,0.05,500,0.737172,0.725179,0.011992,0.58423
